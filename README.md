@@ -1,6 +1,9 @@
 <div align="center">
 
 ### Hi there 👋
+**My name is Dong Hyeon Shin, and I am an AWS Cloud Engineer.**
+**I've got a real passion for all things AWS Cloud and DevOps, especially when it comes to CI-CD pipelines.**
+**Lately, I've been getting hooked on the world of artificial intelligence, and it's been quite the ride.**
 
 ## ✨ Skills ✨
 ### Backend & DB
@@ -21,6 +24,7 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-%235835CC?style=flat-square&logo=Terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-%23D24939?style=flat-square&logo=Jenkins&logoColor=white)
 
+## ✨ SNS ✨
 ### Tech Blog
 <a href="https://sdhcokr.tistory.com/"><img src="https://img.shields.io/badge/Tech blog-20C997?style=flat-square&logo=Velog&&logoColor=white"/></a>
 
