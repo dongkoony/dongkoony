@@ -1,5 +1,8 @@
+<div align="center">
+
 ### Hi there 👋
 
+##✨ Skills ✨
 ### Backend & DB
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=Python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-%23000?style=flat-square&logo=Flask&logoColor=white)
@@ -20,6 +23,9 @@
 
 ### Tech Blog
 <a href="https://sdhcokr.tistory.com/"><img src="https://img.shields.io/badge/Tech blog-20C997?style=flat-square&logo=Velog&&logoColor=white"/></a>
+
+</div>
+
 
 <!--
 **dongkoony/dongkoony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
