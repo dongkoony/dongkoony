@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-##✨ Skills ✨
+## ✨ Skills ✨
 ### Backend & DB
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=Python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-%23000?style=flat-square&logo=Flask&logoColor=white)
