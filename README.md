@@ -41,6 +41,9 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-%235835CC?style=flat-square&logo=Terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-%23D24939?style=flat-square&logo=Jenkins&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
 
 ## ✨ SNS ✨
 ### Tech Blog
