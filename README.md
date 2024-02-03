@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
+
 <!--
 **dongkoony/dongkoony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
