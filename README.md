@@ -1,8 +1,10 @@
 <div align="center">
 
 ### Hi there 👋
-**My name is Dong Hyeon Shin, and I am an AWS Cloud Engineer.**
+**My name is Dong Hyeon Shin, and I am an AWS Cloud Engineer living in South Korea.**
+
 **I've got a real passion for all things AWS Cloud and DevOps, especially when it comes to CI-CD pipelines.**
+
 **Lately, I've been getting hooked on the world of artificial intelligence, and it's been quite the ride.**
 
 ## ✨ Skills ✨
