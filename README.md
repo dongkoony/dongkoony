@@ -19,10 +19,26 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=flat-square&logo=PostgreSQL&logoColor=white)
 
 
-### AWS Infra & DevOps
+### AWS Infra
 ![AWS](https://img.shields.io/badge/-AWS-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/AWS-EC2-orange?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![RDS](https://img.shields.io/badge/AWS-RDS-orange?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/AWS-DynamoDB-orange?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![S3](https://img.shields.io/badge/AWS-S3-orange?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS-Lambda-orange?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![ECS](https://img.shields.io/badge/AWS-ECS-orange?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![EKS](https://img.shields.io/badge/AWS-EKS-orange?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/AWS-CloudFormation-orange?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![SQS](https://img.shields.io/badge/AWS-SQS-orange?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![CodeBuild](https://img.shields.io/badge/AWS-CodeBuild-orange?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![CodePipeline](https://img.shields.io/badge/AWS-CodePipeline-orange?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![IAM](https://img.shields.io/badge/AWS-IAM-orange?style=flat-square&logo=Amazon-AWS&logoColor=white)
+
+### DevOps
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-%235835CC?style=flat-square&logo=Terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-%23D24939?style=flat-square&logo=Jenkins&logoColor=white)
 
