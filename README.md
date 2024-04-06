@@ -1,6 +1,7 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=200&section=header&text=donghyeon%60s%20GitHub&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=transparent&animation=twinkling&text=donghyeon%60s%20GitHub&height=200&fontSize=40)
+
 
 ### Hi there 👋
 **My name is Dong Hyeon Shin, and I am an AWS Cloud Engineer living in South Korea.**
