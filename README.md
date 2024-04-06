@@ -7,6 +7,8 @@
 
 **Lately, I've been getting hooked on the world of artificial intelligence, and it's been quite the ride.**
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
+
 ## ✨ Skills ✨
 ### Backend & DB
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=Python&logoColor=white)
