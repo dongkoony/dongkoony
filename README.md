@@ -1,5 +1,5 @@
 <div align="center">
-![capsule-render](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=capsule%20render&fontSize=90)
+
 
 
 ### Hi there 👋
@@ -8,6 +8,8 @@
 **I've got a real passion for all things AWS Cloud and DevOps, especially when it comes to CI-CD pipelines.**
 
 **Lately, I've been getting hooked on the world of artificial intelligence, and it's been quite the ride.**
+![capsule-render](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=capsule%20render&fontSize=90)
+
 
 ![donghyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=donghyeon&show_icons=true)
 
