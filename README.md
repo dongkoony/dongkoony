@@ -13,7 +13,7 @@
 
 
 
-![donghyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=donghyeon&show_icons=true)
+![donghyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=donghyun4591@gmail.com&show_icons=true)
 
 ## ✨ Skills ✨
 ### Backend & DB
