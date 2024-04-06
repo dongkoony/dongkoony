@@ -13,7 +13,7 @@
 
 
 
-![donghyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongkoony&show_icons=true)
+![donghyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongkoony&show_icons=true&theme=dracula)
 
 ## ✨ Skills ✨
 ### Backend & DB
