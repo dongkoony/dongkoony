@@ -7,7 +7,7 @@
 
 **Lately, I've been getting hooked on the world of artificial intelligence, and it's been quite the ride.**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?donghyeon=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![donghyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=donghyeon&show_icons=true)
 
 ## ✨ Skills ✨
 ### Backend & DB
