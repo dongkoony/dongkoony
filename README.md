@@ -21,9 +21,9 @@
 ![Flask](https://img.shields.io/badge/-Flask-%23000?style=flat-square&logo=Flask&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-%23092E20?style=flat-square&logo=Django&logoColor=white)
 
+### DataBase
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=flat-square&logo=PostgreSQL&logoColor=white)
-
 
 ### Web Servers
 ![Nginx](https://img.shields.io/badge/-Nginx-%23009639?style=flat-square&logo=Nginx&logoColor=white)
